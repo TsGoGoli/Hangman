@@ -6,8 +6,6 @@ proceeds to guess the word by selecting letters from the alphabet, which get fil
 revealing the word. The player can only get so many letters wrong (a letter not found in the word) before
 losing the game. An example run of this game could look like this:
 
-![game](run.png)
-
 ## Primary Features
 
 - The game picks a word at random from a list of words.
@@ -23,3 +21,5 @@ losing the game. An example run of this game could look like this:
 - Store statistics about each game played (Player name/surname, total games played, how many wins/losses)
 - In case of exceptions being thrown during gameplay, log them to a separate file
 - Add functionality to the application to display Highest scorer players (Calculated from the text file)
+
+![run](https://github.com/user-attachments/assets/ad579bdb-3a24-40b2-805a-d4327899e296)
